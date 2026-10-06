@@ -81,6 +81,7 @@ Para cada formato:
 7. **Revísalo tú** (lee la imagen) antes de mostrarlo:
    - El texto dice exactamente lo que escribiste: tildes, ñ, cifras, precio.
    - No aparece nada de Imperio (ni la corona, ni "Imperio Agéntico", ni sus cifras).
+   - El logo es el de la marca. GPT Image a veces lo redibuja: si sale distinto, rehazlo pidiendo copiarlo exacto desde la referencia, o deja el espacio libre y pon el logo real encima con un editor.
    - Sin manos deformes, sin texto roto, sin cifras cortadas.
    - No inventa prueba: ni testimonios, ni chats de clientes, ni reseñas, ni capturas de resultados.
    - Se lee en el celular.
