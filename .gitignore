@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+marca/*
+!marca/LEEME.md
+!marca/marca.plantilla.md
+!marca/assets/
+marca/assets/*
+!marca/assets/.gitkeep
+salida/*
+!salida/LEEME.md
+data/_trabajo.json
+data/REVISAR.md
